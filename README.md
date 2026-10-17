@@ -75,8 +75,8 @@ An award-winning personal identity and creative digital experience built with **
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sam17122004/me_web.git
-   cd me_web
+   git clone https://github.com/sam17122004/A-Work-In-Progress.git
+   cd A-Work-In-Progress
    ```
 
 2. Install dependencies:
